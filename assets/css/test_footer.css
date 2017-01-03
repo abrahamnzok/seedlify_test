@@ -1,0 +1,58 @@
+footer.footer {
+  border:none;
+  background:rgba(255,255,255, 0.8);
+  height:auto;
+}
+
+div#warranty-info.col-md-8 {
+  margin:auto;
+  margin-top:20px;
+}
+
+div#info.col-md-6 {
+  margin:auto;
+  margin-top:20px;
+}
+
+div.footer-seedlify {
+  border:none;
+  width:100%;
+  position:absolute;
+  margin:0 auto !important;
+}
+
+div.contact_info ul.footer-main-elements li a {
+  text-decoration:none;
+}
+
+i.icon {
+  color:rgba(10,116,165,0.890196);
+  font-size:15px;
+}
+
+ul.list-unstyled.footer-main-elements li a {
+  color:#30383a;
+  font-size:15px;
+  font-weight:800;
+  font-family:'Arimo';
+}
+
+ul.list-unstyled.footer-main-elements a i {
+  padding-left:5px;
+}
+
+div.contact_info {
+  margin:auto;
+}
+
+span#privacy {
+  text-decoration:underline;
+  margin-left:10px;
+}
+
+div.warranty-elt p {
+  font-family:'Roboto Condensed';
+  font-weight:400;
+  font-size:15px;
+}
+

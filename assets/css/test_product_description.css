@@ -1,0 +1,92 @@
+p#product {
+  margin-top:10px;
+  margin-bottom:5px;
+  color:white;
+}
+
+h3#price {
+  margin-top:5px;
+}
+
+span#underline {
+  margin:auto;
+  padding:0px;
+  width:86px;
+  height:1px;
+  border:1px solid white;
+  display:inline-block;
+}
+
+div.item-description {
+  margin:auto;
+  padding-left:0px;
+  padding-right:20px;
+  margin-top:20px;
+}
+
+div.item-description:first-child {
+  font-size:15px;
+  font-family:'Arimo';
+  font-weight:800;
+}
+
+p.product-info {
+  font-family:'Fira Sans';
+  font-weight:initial;
+  font-size:12px;
+}
+
+div.item-description h1, h3 {
+  color:white;
+  text-align:justify;
+}
+
+div.item-description p {
+  color:white;
+  text-align:justify;
+}
+
+div.item-description h1 {
+  font-family:'Cabin';
+  display:inline-block;
+  font-size:40px;
+}
+
+div.item-description h3 {
+  font-size:25px;
+  font-family:'Cabin';
+}
+
+a.details {
+  margin:auto;
+  margin-top:20px;
+  color:white;
+  font-family:'Fira Sans';
+  text-align:justify;
+}
+
+a.details i {
+  color:white;
+  font-weight:800;
+  padding-left:10px;
+}
+
+div#caption-description.item-description {
+  margin:auto;
+  padding:3px;
+  opacity:0.8;
+  margin-bottom:40px;
+}
+
+div#caption-description.item-description {
+  width:inherit;
+  float:left;
+  text-align:justify;
+}
+
+div#caption-description.item-description span#underline {
+  width:55%;
+  margin:auto;
+  float:left;
+}
+
