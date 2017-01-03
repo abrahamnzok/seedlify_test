@@ -4,12 +4,11 @@ div#carousilify.row {
 }
 
 div#carousel.container {
-  padding:0px;
+  padding:0;
 }
 
 div.carousel.slide {
-  margin:auto;
-  margin-top:100px;
+  margin: 100px auto auto;
 }
 
 img.img-responsive.top-img {

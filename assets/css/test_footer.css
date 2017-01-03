@@ -5,13 +5,11 @@ footer.footer {
 }
 
 div#warranty-info.col-md-8 {
-  margin:auto;
-  margin-top:20px;
+  margin: 20px auto auto;
 }
 
 div#info.col-md-6 {
-  margin:auto;
-  margin-top:20px;
+  margin: 20px auto auto;
 }
 
 div.footer-seedlify {
@@ -34,7 +32,7 @@ ul.list-unstyled.footer-main-elements li a {
   color:#30383a;
   font-size:15px;
   font-weight:800;
-  font-family:'Arimo';
+  font-family: 'Arimo', serif;
 }
 
 ul.list-unstyled.footer-main-elements a i {
@@ -51,7 +49,7 @@ span#privacy {
 }
 
 div.warranty-elt p {
-  font-family:'Roboto Condensed';
+  font-family:'Roboto Condensed', serif;
   font-weight:400;
   font-size:15px;
 }
